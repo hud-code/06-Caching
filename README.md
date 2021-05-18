@@ -35,6 +35,8 @@ Unarchiving cache...
 
 - Finally make the neccesary edits to the config to 'bust' or 'clear' the cache so it doesn't use the existing saved cache and instead stores a new one.
 
+*Change made for update*
+
 **Help:**
 <details>
   <summary>Spoiler warning</summary>
